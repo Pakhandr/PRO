@@ -1,0 +1,29 @@
+C:\Users\pavel\source\repos\memesonly\memesonly\obj\Debug\net8.0\memesonly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\source\repos\memesonly\memesonly\obj\Debug\net8.0\memesonly.AssemblyInfoInputs.cache
+C:\Users\pavel\source\repos\memesonly\memesonly\obj\Debug\net8.0\memesonly.AssemblyInfo.cs
+C:\Users\pavel\source\repos\memesonly\memesonly\obj\Debug\net8.0\memesonly.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\memesonly\memesonly\bin\Debug\net8.0\memesonly.exe
+C:\Users\pavel\source\repos\memesonly\memesonly\bin\Debug\net8.0\memesonly.deps.json
+C:\Users\pavel\source\repos\memesonly\memesonly\bin\Debug\net8.0\memesonly.runtimeconfig.json
+C:\Users\pavel\source\repos\memesonly\memesonly\bin\Debug\net8.0\memesonly.dll
+C:\Users\pavel\source\repos\memesonly\memesonly\bin\Debug\net8.0\memesonly.pdb
+C:\Users\pavel\source\repos\memesonly\memesonly\obj\Debug\net8.0\memesonly.dll
+C:\Users\pavel\source\repos\memesonly\memesonly\obj\Debug\net8.0\refint\memesonly.dll
+C:\Users\pavel\source\repos\memesonly\memesonly\obj\Debug\net8.0\memesonly.pdb
+C:\Users\pavel\source\repos\memesonly\memesonly\obj\Debug\net8.0\memesonly.genruntimeconfig.cache
+C:\Users\pavel\source\repos\memesonly\memesonly\obj\Debug\net8.0\ref\memesonly.dll
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\bin\Debug\net8.0\memesonly.exe
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\bin\Debug\net8.0\memesonly.deps.json
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\bin\Debug\net8.0\memesonly.runtimeconfig.json
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\bin\Debug\net8.0\memesonly.dll
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\bin\Debug\net8.0\memesonly.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\obj\Debug\net8.0\memesonly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\obj\Debug\net8.0\memesonly.AssemblyInfoInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\obj\Debug\net8.0\memesonly.AssemblyInfo.cs
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\obj\Debug\net8.0\memesonly.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\obj\Debug\net8.0\memesonly.sourcelink.json
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\obj\Debug\net8.0\memesonly.dll
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\obj\Debug\net8.0\refint\memesonly.dll
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\obj\Debug\net8.0\memesonly.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\obj\Debug\net8.0\memesonly.genruntimeconfig.cache
+C:\Users\pavel\OneDrive\Рабочий стол\PRO\Lab_1\obj\Debug\net8.0\ref\memesonly.dll
